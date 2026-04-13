@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Apoorva 👋</h1>
-<h3 align="center">CS Undergrad | Machine Learning · AI Systems · Data Science</h3>
+<h3 align="center">CS Undergrad | Data Science</h3>
+<h3 align="center">Code. Train. Deploy. Repeat.</h3>
 
 <br/>
 
